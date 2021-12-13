@@ -11,7 +11,6 @@
 
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
-* [Quá trình môn học](#quatrinh)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
@@ -22,20 +21,6 @@
 * **Lớp học**: CS116.M11
 * **Ngày bắt đầu**: 06/09/2021
 * **Năm học**: 2021-2022
-## QUÁ TRÌNH MÔN HỌC
-<a name ="quatrinh"></a>
-### 1.LẬP TRÌNH PYTHON
-
-
-<a name ="colab"></a>
-### 2.UNSUPERVISED LEARNING
-
-<a name ="QT"></a>
-### 3.SUPERVISED LEARNING
-
-### 3.DEEP LEARNING
-
-### 4. ĐÓNG GÓI ỨNG DỤNG
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
@@ -51,4 +36,4 @@
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. Tên đồ án:
+1. Tên đồ án: Support Vector Regression
